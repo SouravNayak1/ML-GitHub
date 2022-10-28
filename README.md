@@ -1,2 +1,2 @@
 # ML-GitHub
-Machine Learning Projects
+Machine Learning Algorithms
